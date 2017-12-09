@@ -1,0 +1,48 @@
+{
+    "people": [
+        {
+            "name": "Eric",
+            "job": "Master Programmer",
+            "classes": [
+                {
+                    "name": "Learn Academy",
+                    "location": "Downtown San Diego"
+                },
+                {
+                    "name": "Music 101",
+                    "location": "Citrus College"
+                },
+                {
+                    "name": "Physics 602",
+                    "location": "Stanford"
+                },
+                {
+                    "name": "Electical Eng",
+                    "location": "Stanford"
+                }
+            ]
+        },
+        {
+            "name": "Rob",
+            "job": "Jr Programmer",
+            "classes": [
+                {
+                    "name": "Learn Academy",
+                    "location": "Downtown San Diego"
+                },
+                {
+                    "name": "Music 101",
+                    "location": "Citrus College"
+                },
+                {
+                    "name": "Physics 602",
+                    "location": "Stanford"
+                },
+                {
+                    "name": "Electical Eng",
+                    "location": "Stanford"
+                }
+            ]
+        }
+    ]
+}
